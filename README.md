@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<img src="https://media.tenor.com/VrNXMkkO3fcAAAAC/star-wars-ben-kenobi.gif">
+</div>
 
 <!--
 **MrBrunoWolff/MrBrunoWolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
