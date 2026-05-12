@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://media.tenor.com/VrNXMkkO3fcAAAAC/star-wars-ben-kenobi.gif">
-
+  
+  ![](https://raw.githubusercontent.com/MrBrunoWolff/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/MrBrunoWolff/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrbrunowolff)
 </div>
 
